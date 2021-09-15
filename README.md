@@ -20,6 +20,7 @@ Data pipelines are necessary for the continuous cleaning of incoming data, to st
 # Design
 This dataset was delivered in JSON format, and the database was constructed to act as a data warehouse to retain raw input, a data mart to deliver structured clean data in a Bus format for incremental data loads, as well as a hybrid relational database following the Kimball/Star-Schema models.  Surrogate keys were created for additional efficiency, utilizing b-tree indexes. This mapping allowed automatic rejection of records that did not meet the initial load of authors and raw tweet, due to the lacking foreign key. This process further maximized storage to allow for scalability. Data was stored on a shared server utilizing MySQL hosted by BlueHost
 
+Bus Data Warehouse Exmample
 ![fig1](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Bus.png)
 
 # Why a Pipeline is Required with Twitter Data
@@ -28,9 +29,10 @@ This project is intended as a snapshot in-time of an ongoing analysis of Twitter
 # Structured for efficiency
 The database was designed to maximize space for tweet text, making up most of the storage. Initial load tables link to a central fact table that limits subsequent record insertion. Any data that is replicated in metadata or search criteria is set as dimensional link. This reduces the overall storage needed to retain a data set needing millions of records. This design represents a hybrid of several database types, though closely resembles a cross between Kimball  and the Star-Schema approach, as seen in the entity relational diagram (ERD). Secondary loads were created to refine existing data for specific analysis methods allowing extraction of data at superior speeds. Views were utilized to reduce space by structuring queries that could be used in multiple analysis methods but did not require static recall for use.
 
-
+Star Schema Example
 ![fig3](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Star_Schema.png)
 
+Kimball Example
 ![fig2](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Kimball.png)
 
 
@@ -39,7 +41,7 @@ The database was designed to maximize space for tweet text, making up most of th
 
 # ELT Process
 ## Initial Load
-Data abstraction starts with a Postman GET request utilizing the Twitter API environment. The specific GET request used in this process can imported [insert GIT link] for replication. JSON files were named in a manner to support metadata loading. Twitter text was loaded first to eliminate complicated tweets. No cleaning was applied to the raw input, and text was restricted to insert utilizing single or double quotes. This retained 90% of the payload and eliminated the need for further manipulation. Twitter users were then loaded and restricted in the same manner as tweet text. Users are allowed to create an account description; this field was restricted to the same business rules as tweets. Metadata was then extracted from file names and payload JSON. This data was loaded last, so that records without foreign keys to Users or Tweet_Text would fail, limiting space to only useable metadata.
+Data abstraction starts with a Postman GET request utilizing the Twitter API environment. The specific GET request used in this process can imported for replication. JSON files were named in a manner to support metadata loading. Twitter text was loaded first to eliminate complicated tweets. No cleaning was applied to the raw input, and text was restricted to insert utilizing single or double quotes. This retained 90% of the payload and eliminated the need for further manipulation. Twitter users were then loaded and restricted in the same manner as tweet text. Users are allowed to create an account description; this field was restricted to the same business rules as tweets. Metadata was then extracted from file names and payload JSON. This data was loaded last, so that records without foreign keys to Users or Tweet_Text would fail, limiting space to only useable metadata.
 Since the goal of this pipeline is to repeat the ETL as frequently as possible, minimal losses were accepted to favor a fast-loading processes.
 
 ## Secondary Load
@@ -58,7 +60,7 @@ Built for scalability, this data pipeline model can be fully automated. Eliminat
 Using a bat file or bash script each python script can be called in succession to load data, eliminating the need for manual oversight. Users can monitor RUN_LOG data to ensure reliability of the process.
 Figures
 
-# Sample Code
+# Sample GET Request Code Usint Twitter API v2
 ```
 import requests
 
