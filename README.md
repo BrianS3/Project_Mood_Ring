@@ -1,5 +1,5 @@
 # About
-This git (Project Mood Ring) is an expirement to ETL twitter data using simple, opensource tools. This pipeline analyzes twitter data for emotional sentiment. The database and ETL process can be fully replicated from the contents. 
+This git (Project Mood Ring) is an expirement to ETL twitter data using simple, open source tools. This pipeline analyzes Twitter data for emotional sentiment. The database and ETL process can be fully replicated from the contents. 
 
 # License
 Use and distribution of this data and data model are subject to the terms stated [here](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/LICENSE).
