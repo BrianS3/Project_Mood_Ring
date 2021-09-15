@@ -2,7 +2,7 @@
 This git (Project Mood Ring) is an expirement to ETL twitter data using simple, opensource tools. This pipeline analyzes twitter data for emotional sentiment. The database and ETL process can be fully replicated from the contents. 
 
 # Postman
-![Postman](https://www.postman.com/downloads/) was used as the primary extraction tool. Examples how to replicate this payload can be found under "Postman". 
+[Postman](https://www.postman.com/downloads/) was used as the primary extraction tool. Examples how to replicate this payload can be found under "Postman". 
 
 
 # MySQL Database Server Specifications:
