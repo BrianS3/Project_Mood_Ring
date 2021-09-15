@@ -15,14 +15,23 @@ This git (Project Mood Ring) is an expirement to ETL twitter data using simple, 
 Data pipelines are necessary for the continuous cleaning of incoming data, to stage in a useable format reducing the needs to replicate steps. Raw data extracted through APIs requires business rules to guide final use. These include how cardinality will affect queries, data formats, and useable records. To allow for efficient analysis data must undergo an ETL process (extraction, transform, load). This dataflow delivers a payload in a uniform format. During the process business rules are applied on multiple tables informing users how data should be queried. Working with structured data, such as XML and JSON have benefits for the ETL process allowing the capture of metadata.  
 
 # Design
-This dataset was delivered in JSON format, and the database was constructed to act as a data warehouse to retain raw input, a data mart to deliver structured clean data in a Bus format for incremental data loads ![fig1](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Bus.png), as well as a hybrid relational database following the Kimball/Star-Schema models.  Surrogate keys were created for additional efficiency, utilizing b-tree indexes. This mapping allowed automatic rejection of records that did not meet the initial load of authors and raw tweet, due to the lacking foreign key. This process further maximized storage to allow for scalability. Data was stored on a shared server utilizing MySQL hosted by BlueHost
+This dataset was delivered in JSON format, and the database was constructed to act as a data warehouse to retain raw input, a data mart to deliver structured clean data in a Bus format for incremental data loads, as well as a hybrid relational database following the Kimball/Star-Schema models.  Surrogate keys were created for additional efficiency, utilizing b-tree indexes. This mapping allowed automatic rejection of records that did not meet the initial load of authors and raw tweet, due to the lacking foreign key. This process further maximized storage to allow for scalability. Data was stored on a shared server utilizing MySQL hosted by BlueHost
+
+![fig1](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Bus.png)
 
 # Why a Pipeline is Required with Twitter Data
 This project is intended as a snapshot in-time of an ongoing analysis of Twitter data. Large extractions are necessary to generate enough data to obtain reliable results. It is unreasonable for a single set of files to clean, retain, and structure data for analysis. The data must be obtained in regular intervals in such amounts that even in binary format, storage would severely limit querying abilities based around memory heap sizes. 
 
 # Structured for efficiency
-The database was designed to maximize space for tweet text, making up most of the storage. Initial load tables link to a central fact table that limits subsequent record insertion. Any data that is replicated in metadata or search criteria is set as dimensional link. This reduces the overall storage needed to retain a data set needing millions of records. This design represents a hybrid of several database types, though closely resembles a cross between Kimball ![fig2](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Kimball.png) and the Star-Schema approach, ![fig3](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Star_Schema.png) as seen in the entity relational diagram (ERD). Secondary loads were created to refine existing data for specific analysis methods allowing extraction of data at superior speeds. Views were utilized to reduce space by structuring queries that could be used in multiple analysis methods but did not require static recall for use.
+The database was designed to maximize space for tweet text, making up most of the storage. Initial load tables link to a central fact table that limits subsequent record insertion. Any data that is replicated in metadata or search criteria is set as dimensional link. This reduces the overall storage needed to retain a data set needing millions of records. This design represents a hybrid of several database types, though closely resembles a cross between Kimball  and the Star-Schema approach, as seen in the entity relational diagram (ERD). Secondary loads were created to refine existing data for specific analysis methods allowing extraction of data at superior speeds. Views were utilized to reduce space by structuring queries that could be used in multiple analysis methods but did not require static recall for use.
 
+
+![fig3](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Star_Schema.png)
+
+![fig2](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Kimball.png)
+
+
+# ERD for This Dataset
 ![ERD](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/SIADS591_ERD.png)
 
 # ELT Process
