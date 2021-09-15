@@ -21,6 +21,7 @@ Data pipelines are necessary for the continuous cleaning of incoming data, to st
 This dataset was delivered in JSON format, and the database was constructed to act as a data warehouse to retain raw input, a data mart to deliver structured clean data in a Bus format for incremental data loads, as well as a hybrid relational database following the Kimball/Star-Schema models.  Surrogate keys were created for additional efficiency, utilizing b-tree indexes. This mapping allowed automatic rejection of records that did not meet the initial load of authors and raw tweet, due to the lacking foreign key. This process further maximized storage to allow for scalability. Data was stored on a shared server utilizing MySQL hosted by BlueHost
 
 Bus Data Warehouse Exmample
+
 ![fig1](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Bus.png)
 
 # Why a Pipeline is Required with Twitter Data
@@ -30,9 +31,11 @@ This project is intended as a snapshot in-time of an ongoing analysis of Twitter
 The database was designed to maximize space for tweet text, making up most of the storage. Initial load tables link to a central fact table that limits subsequent record insertion. Any data that is replicated in metadata or search criteria is set as dimensional link. This reduces the overall storage needed to retain a data set needing millions of records. This design represents a hybrid of several database types, though closely resembles a cross between Kimball  and the Star-Schema approach, as seen in the entity relational diagram (ERD). Secondary loads were created to refine existing data for specific analysis methods allowing extraction of data at superior speeds. Views were utilized to reduce space by structuring queries that could be used in multiple analysis methods but did not require static recall for use.
 
 Star Schema Example
+
 ![fig3](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Star_Schema.png)
 
 Kimball Example
+
 ![fig2](https://github.com/BrianS3/01-quasar-pbmurphy-bseko/blob/main/images/Kimball.png)
 
 
