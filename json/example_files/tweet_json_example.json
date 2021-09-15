@@ -1,0 +1,310 @@
+{
+    "data": [
+        {
+            "author_id": "873910340286808064",
+            "conversation_id": "1289350121998581760",
+            "created_at": "2020-07-31T23:59:58.000Z",
+            "id": "1289350121998581760",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "87718054",
+            "conversation_id": "1289350114952142848",
+            "created_at": "2020-07-31T23:59:57.000Z",
+            "id": "1289350114952142848",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "2479481069",
+            "conversation_id": "1289350113828077569",
+            "created_at": "2020-07-31T23:59:56.000Z",
+            "id": "1289350113828077569",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "2710373166",
+            "conversation_id": "1289350110355181568",
+            "created_at": "2020-07-31T23:59:55.000Z",
+            "id": "1289350110355181568",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "looks like its his turn on the xbox https://t.co/URInCnWJEg"
+        },
+        {
+            "author_id": "2177495810",
+            "conversation_id": "1289118906381205504",
+            "created_at": "2020-07-31T23:59:55.000Z",
+            "id": "1289350110036389888",
+            "in_reply_to_user_id": "1219821509579083781",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289118906381205504",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "@BradleyTaylor64 You can start with PC games, it's a really hard question to answer. It be like how do you get into TV watching? I won't buy a system like xbox or playstation first. I would go to 
+Steam on pc and start there. Steam is like itunes but for games."
+        },
+        {
+            "author_id": "3148586052",
+            "conversation_id": "1289350107763109890",
+            "created_at": "2020-07-31T23:59:55.000Z",
+            "id": "1289350107763109890",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "71059204",
+            "conversation_id": "1289350097147289600",
+            "created_at": "2020-07-31T23:59:52.000Z",
+            "id": "1289350097147289600",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 311
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289299932319555584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @IGN: 343 Industries confirmed Halo Infinite's multiplayer will be free-to-play and run at 120fps on Xbox Series X. https://t.co/Uw8GdEA\u2026"
+        },
+        {
+            "author_id": "164721807",
+            "conversation_id": "1289344916112306178",
+            "created_at": "2020-07-31T23:59:52.000Z",
+            "id": "1289350094798520320",
+            "in_reply_to_user_id": "61500683",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289344916112306178",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "@MRsuperscout Awww look at Xbox with one exclusive"
+        },
+        {
+            "author_id": "1168443248190402560",
+            "conversation_id": "1289298976550731776",
+            "created_at": "2020-07-31T23:59:49.000Z",
+            "id": "1289350084002553856",
+            "in_reply_to_user_id": "282843716",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289299543910047744",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@IDrewsavage @its_menieb @Halo @Xbox Think the reason you put this up is cuz there is \"arab\" in it. Racism is something that will get you eaten up on social media so do us a favour and keep you 
+poor education and manners to your personal life"
+        },
+        {
+            "author_id": "805068335473971200",
+            "conversation_id": "1289350083318697984",
+            "created_at": "2020-07-31T23:59:49.000Z",
+            "id": "1289350083318697984",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for iPhone",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "231071506",
+            "conversation_id": "1289350066814164992",
+            "created_at": "2020-07-31T23:59:45.000Z",
+            "id": "1289350066814164992",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 510
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289289730845216775",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Xbox: Don't worry about where they've been. All that matters is that they're back.\n\nBattletoads is available August 20: https://t.co/Rf\u2026"
+        },
+        {
+            "author_id": "2318224970",
+            "conversation_id": "1289350062842109953",
+            "created_at": "2020-07-31T23:59:44.000Z",
+            "id": "1289350062842109953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18884
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289298976550731776",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "RT @Halo: Halo is for everyone. We can confirm #HaloInfinite multiplayer will be free-to-play and will support 120FPS on Xbox Series X. Mor\u2026"
+        },
+        {
+            "author_id": "1867649480",
+            "conversation_id": "1289350061269245953",
+            "created_at": "2020-07-31T23:59:44.000Z",
+            "id": "1289350061269245953",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 242
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289348599847874561",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter Web App",
+            "text": "RT @exposing_white: Michael Hoots(24), had the White privilege of being tied up, tortured and stabbed while visiting a friends house in Det\u2026"
+        },
+        {
+            "author_id": "882620363070476288",
+            "conversation_id": "1289298976550731776",
+            "created_at": "2020-07-31T23:59:42.000Z",
+            "id": "1289350055959257093",
+            "in_reply_to_user_id": "845996163912400898",
+            "lang": "en",
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1289349613850255360",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "source": "Twitter for Android",
+            "text": "@The_Nate_Rardin @Halo @
+

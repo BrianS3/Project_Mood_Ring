@@ -1,0 +1,899 @@
+{
+    "data": [
+        {
+            "id": "1060683380893769728",
+            "text": "RT @jonfavs: Accusing people who want every vote counted of stealing an election is disgusting. \n\nMarco’s really gone full Trump here. http…",
+            "author_id": "33435305",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060645426854977536"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:59.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "jonfavs",
+                        "id": "130496027"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683376582025216",
+            "text": "RT @McFaul: To those media outlets who covered extensively the \" the invading caravan\" before the election-- sometimes on page one -- but n…",
+            "author_id": "103643917",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060574566282493952"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:58.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "McFaul",
+                        "id": "454099919"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683355769909248",
+            "text": "RT @jonfavs: Accusing people who want every vote counted of stealing an election is disgusting. \n\nMarco’s really gone full Trump here. http…",
+            "author_id": "20117737",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060645426854977536"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:53.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 11,
+                        "username": "jonfavs",
+                        "id": "130496027"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683354872442880",
+            "text": "🚨ELECTION FRAUD ALERT!!\n\n#Trump #MAGA #VoterFraud #ElectionFraud #BrowardCounty #BrowardCountyElectionFraud https://t.co/Anjg1KdwlH",
+            "author_id": "266067803",
+            "referenced_tweets": [
+                {
+                    "type": "quoted",
+                    "id": "1060678592017977344"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:53.000Z"
+        },
+        {
+            "id": "1060683352553017345",
+            "text": "RT @annagalland: These photos are gorgeous. In the wake of a massive wave election that put a real check on Trump's power, they are another…",
+            "author_id": "72854220",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060682018705543175"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "annagalland",
+                        "id": "7884802"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683352162926599",
+            "text": "RT @JohnQBarrett: Whittaker then was practicing law in his own law firm in Des Moines (Whitaker Hagenow &amp; Gustoff LLP).  On CNN, he was cri…",
+            "author_id": "2731618972",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060333386454175746"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:52.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "JohnQBarrett",
+                        "id": "68194357"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683341958135808",
+            "text": "RT @RealCandaceO: What I learned this election cycle:\n\n@BarackObama’s endorsement is a political kiss of death. \n\nPolitely decline next tim…",
+            "author_id": "1895972022",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060226413754793984"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:49.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 16,
+                        "username": "RealCandaceO",
+                        "id": "878247600096509952"
+                    },
+                    {
+                        "start": 55,
+                        "end": 67,
+                        "username": "BarackObama",
+                        "id": "813286"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683341630861312",
+            "text": "RT @ChrisLoesch: Hey Scott, that headline is a lie. She was talking about how Trump handled the media during the election cycle. So unless…",
+            "author_id": "4802846372",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060679482439335937"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:49.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "ChrisLoesch",
+                        "id": "491461409"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683333770764289",
+            "text": "RT @McFaul: To those media outlets who covered extensively the \" the invading caravan\" before the election-- sometimes on page one -- but n…",
+            "author_id": "823576508966940672",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060574566282493952"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:47.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "McFaul",
+                        "id": "454099919"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1060683331526893568",
+            "text": "RT @McFaul: To those media outlets who covered extensively the \" the invading caravan\" before the election-- sometimes on page one -- but n…",
+            "author_id": "2230571358",
+            "referenced_tweets": [
+                {
+                    "type": "retweeted",
+                    "id": "1060574566282493952"
+                }
+            ],
+            "created_at": "2018-11-08T23:59:47.000Z",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 10,
+                        "username": "McFaul",
+                        "id": "454099919"
+                    }
+                ]
+            }
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/toXHIIf4yI",
+                                "expanded_url": "https://stem.ffm.to/hanadriel",
+                                "display_url": "stem.ffm.to/hanadriel"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "rebecca p",
+                "id": "33435305",
+                "public_metrics": {
+                    "followers_count": 253,
+                    "following_count": 1353,
+                    "tweet_count": 54273,
+                    "listed_count": 0
+                },
+                "username": "rlp164",
+                "url": "",
+                "protected": false,
+                "created_at": "2009-04-20T05:17:34.000Z",
+                "pinned_tweet_id": "820458087312068608",
+                "description": "https://t.co/toXHIIf4yI",
+                "location": "Redondo Beach, CA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/847282515677110273/NE-fSp9B_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/ucF84oDrcr",
+                                "expanded_url": "http://www.votesaveamerica.com",
+                                "display_url": "votesaveamerica.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 15,
+                                "end": 28,
+                                "username": "Crookedmedia"
+                            },
+                            {
+                                "start": 41,
+                                "end": 56,
+                                "username": "PodSaveAmerica"
+                            },
+                            {
+                                "start": 66,
+                                "end": 78,
+                                "username": "barackobama"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Jon Favreau",
+                "id": "130496027",
+                "public_metrics": {
+                    "followers_count": 1500512,
+                    "following_count": 1586,
+                    "tweet_count": 41258,
+                    "listed_count": 11306
+                },
+                "username": "jonfavs",
+                "url": "https://t.co/ucF84oDrcr",
+                "protected": false,
+                "created_at": "2010-04-07T13:10:43.000Z",
+                "pinned_tweet_id": "1422314892606861313",
+                "description": "The Other One. @Crookedmedia co-founder. @PodSaveAmerica co-host. @barackobama speechwriter.",
+                "location": "Los Angeles, CA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1387850831865671682/LBFhJZDf_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/lMXvKIpm4K",
+                                "expanded_url": "http://bestrelationshipsever.com",
+                                "display_url": "bestrelationshipsever.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "hashtags": [
+                            {
+                                "start": 98,
+                                "end": 105,
+                                "tag": "Resist"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "Lauren Thomas",
+                "id": "103643917",
+                "public_metrics": {
+                    "followers_count": 2254,
+                    "following_count": 2900,
+                    "tweet_count": 37569,
+                    "listed_count": 32
+                },
+                "username": "BestRelaEver",
+                "url": "https://t.co/lMXvKIpm4K",
+                "protected": false,
+                "created_at": "2010-01-10T19:22:15.000Z",
+                "description": "Forensic Psychologist, Expert Witness, Speaker, and lover of the tropics! No DM’s from strangers. #Resist",
+                "location": "Ojai/San Diego Ca/Lewisburg Pa",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/696294821/LaurenThomas-150x150_1__-_Copy_-_Copy_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 22,
+                                "url": "http://t.co/NRg5C152uL",
+                                "expanded_url": "http://www.facebook.com/amb.mcfaul",
+                                "display_url": "facebook.com/amb.mcfaul"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "start": 12,
+                                "end": 35,
+                                "url": "https://t.co/DK5gWIaFX5",
+                                "expanded_url": "http://michaelmcfaul.com/",
+                                "display_url": "michaelmcfaul.com"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Michael McFaul",
+                "id": "454099919",
+                "public_metrics": {
+                    "followers_count": 566367,
+                    "following_count": 1704,
+                    "tweet_count": 97804,
+                    "listed_count": 5292
+                },
+                "username": "McFaul",
+                "url": "http://t.co/NRg5C152uL",
+                "protected": false,
+                "created_at": "2012-01-03T16:36:02.000Z",
+                "pinned_tweet_id": "1296915604964745216",
+                "description": "Professor.  https://t.co/DK5gWIaFX5",
+                "location": "Stanford, California",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/640815361638535169/L5CJEZkw_normal.jpg"
+            },
+            {
+                "verified": false,
+                "name": "Andrew Kotila",
+                "id": "20117737",
+                "public_metrics": {
+                    "followers_count": 172,
+                    "following_count": 340,
+                    "tweet_count": 14287,
+                    "listed_count": 5
+                },
+                "username": "Thefooze",
+                "url": "",
+                "protected": false,
+                "created_at": "2009-02-05T03:28:17.000Z",
+                "description": "Progressive.",
+                "location": "San Jose, California",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/665701425696010240/xtj3UN0g_normal.jpg"
+            },
+            {
+                "verified": false,
+                "name": "Infinite Idiocracy",
+                "id": "266067803",
+                "public_metrics": {
+                    "followers_count": 1018,
+                    "following_count": 981,
+                    "tweet_count": 82408,
+                    "listed_count": 15
+                },
+                "username": "Infinite_Ennui",
+                "url": "",
+                "protected": false,
+                "created_at": "2011-03-14T16:00:42.000Z",
+                "pinned_tweet_id": "1421080310054363140",
+                "description": "Ego Odi Hypocrisis",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/846164951869915136/VuzTDHWA_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/PURDnkBdAH",
+                                "expanded_url": "https://goo.gl/CYmMU2",
+                                "display_url": "goo.gl/CYmMU2"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 0,
+                                "end": 4,
+                                "username": "GOP"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Ronna McDaniel",
+                "id": "2353605901",
+                "public_metrics": {
+                    "followers_count": 953839,
+                    "following_count": 2501,
+                    "tweet_count": 18919,
+                    "listed_count": 3610
+                },
+                "username": "GOPChairwoman",
+                "url": "https://t.co/PURDnkBdAH",
+                "protected": false,
+                "created_at": "2014-02-20T18:05:28.000Z",
+                "description": "@GOP Chairwoman | Wife, mother of two",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1390368402414440452/I0CxfwLC_normal.jpg"
+            },
+            {
+                "verified": false,
+                "name": "anita nedley",
+                "id": "72854220",
+                "public_metrics": {
+                    "followers_count": 659,
+                    "following_count": 1105,
+                    "tweet_count": 145887,
+                    "listed_count": 3
+                },
+                "username": "nita2293",
+                "url": "",
+                "protected": false,
+                "created_at": "2009-09-09T13:40:23.000Z",
+                "pinned_tweet_id": "1044688964278456320",
+                "description": "Lover of kids, animals, nature, baseball & truth.\nI block arrogant Trump supporters. \nTrust is earned.",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1009640342373748736/IQDJuWFl_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/05Yc2a06BN",
+                                "expanded_url": "http://www.annagalland.com",
+                                "display_url": "annagalland.com"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 91,
+                                "end": 98,
+                                "username": "MoveOn"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Anna Galland",
+                "id": "7884802",
+                "public_metrics": {
+                    "followers_count": 14582,
+                    "following_count": 4260,
+                    "tweet_count": 6476,
+                    "listed_count": 214
+                },
+                "username": "annagalland",
+                "url": "https://t.co/05Yc2a06BN",
+                "protected": false,
+                "created_at": "2007-08-01T16:15:05.000Z",
+                "pinned_tweet_id": "1387579555095928832",
+                "description": "Organizer, strategist, organization-builder. Mother of 3. Previously Executive Director of @MoveOn Civic Action.",
+                "location": "Chicago",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1402714965744787458/8FSywibX_normal.jpg"
+            },
+            {
+                "verified": false,
+                "name": "The Shire🇨🇦",
+                "id": "2731618972",
+                "public_metrics": {
+                    "followers_count": 577,
+                    "following_count": 349,
+                    "tweet_count": 223086,
+                    "listed_count": 0
+                },
+                "username": "vbrighthorses",
+                "url": "",
+                "protected": false,
+                "created_at": "2014-08-02T13:20:56.000Z",
+                "pinned_tweet_id": "1352113388025835522",
+                "description": "A Canadian, concerned about our friend to the south, and Britain across the pond. I think physics, horses and LotR are cool, and Christianity is true. she/her",
+                "location": "Canada",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1356405212064272384/vBmB06Ie_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/Zw8WODXYWQ",
+                                "expanded_url": "https://www.stjohns.edu/law/faculty/john-q-barrett",
+                                "display_url": "stjohns.edu/law/faculty/jo…"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "hashtags": [
+                            {
+                                "start": 148,
+                                "end": 160,
+                                "tag": "JacksonList"
+                            }
+                        ],
+                        "mentions": [
+                            {
+                                "start": 6,
+                                "end": 17,
+                                "username": "StJohnsLaw"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "John Q. Barrett",
+                "id": "68194357",
+                "public_metrics": {
+                    "followers_count": 5623,
+                    "following_count": 1033,
+                    "tweet_count": 5671,
+                    "listed_count": 74
+                },
+                "username": "JohnQBarrett",
+                "url": "https://t.co/Zw8WODXYWQ",
+                "protected": false,
+                "created_at": "2009-08-23T17:45:31.000Z",
+                "description": "Prof. @StJohnsLaw NYC.  Justice Robert H. Jackson biographer. \nConst'l Law, Crim Pro, Legal History, Nuremberg, SCOTUS. \nWorked Iran-Contra & DOJ.  #JacksonList",
+                "location": "New York, USA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1179108934809980928/_zn6481V_normal.jpg"
+            },
+            {
+                "entities": {
+                    "description": {
+                        "hashtags": [
+                            {
+                                "start": 0,
+                                "end": 5,
+                                "tag": "MAGA"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "Lewis",
+                "id": "1895972022",
+                "public_metrics": {
+                    "followers_count": 99,
+                    "following_count": 365,
+                    "tweet_count": 11094,
+                    "listed_count": 0
+                },
+                "username": "tanktini",
+                "url": "",
+                "protected": false,
+                "created_at": "2013-09-23T03:30:13.000Z",
+                "description": "#MAGA",
+                "location": "United States",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1279738232234823680/XQZg-YQo_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/IR929nrRp7",
+                                "expanded_url": "https://www.simonandschuster.com/books/Blackout/Candace-Owens/9781982133276",
+                                "display_url": "simonandschuster.com/books/Blackout…"
+                            }
+                        ]
+                    },
+                    "description": {
+                        "mentions": [
+                            {
+                                "start": 47,
+                                "end": 54,
+                                "username": "BLEXIT"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Candace Owens",
+                "id": "878247600096509952",
+                "public_metrics": {
+                    "followers_count": 2826548,
+                    "following_count": 29,
+                    "tweet_count": 5541,
+                    "listed_count": 6441
+                },
+                "username": "RealCandaceO",
+                "url": "https://t.co/IR929nrRp7",
+                "protected": false,
+                "created_at": "2017-06-23T13:45:19.000Z",
+                "pinned_tweet_id": "1301542478600904704",
+                "description": "New York Times best-selling author. Founder of @BLEXIT organization. Black people don’t have to be Democrats— still.",
+                "location": "New York, USA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1369699898753486854/7LyTBbgC_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/FPuJ0CENpo",
+                                "expanded_url": "http://obamabook.com",
+                                "display_url": "obamabook.com"
+                            }
+                        ]
+                    }
+                },
+                "verified": true,
+                "name": "Barack Obama",
+                "id": "813286",
+                "public_metrics": {
+                    "followers_count": 129875148,
+                    "following_count": 589972,
+                    "tweet_count": 16236,
+                    "listed_count": 222832
+                },
+                "username": "BarackObama",
+                "url": "https://t.co/FPuJ0CENpo",
+                "protected": false,
+                "created_at": "2007-03-05T22:08:25.000Z",
+                "description": "Dad, husband, President, citizen.",
+                "location": "Washington, DC",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1329647526807543809/2SGvnHYV_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/1W0nKJWg9P",
+                                "expanded_url": "https://www.youtube.com/channel/UCH5GTwah3hUDxbDtf-VxP3w",
+                                "display_url": "youtube.com/channel/UCH5GT…"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "Greg Cole",
+                "id": "4802846372",
+                "public_metrics": {
+                    "followers_count": 170,
+                    "following_count": 223,
+                    "tweet_count": 23748,
+                    "listed_count": 2
+                },
+                "username": "curbygc",
+                "url": "https://t.co/1W0nKJWg9P",
+                "protected": false,
+                "created_at": "2016-01-23T12:31:20.000Z",
+                "description": "Sailing the Columbia river or riding quads at the dunes!",
+                "location": "Sandy, OR",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/981891444259545088/Qhelnxpw_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/dYTibvxZ20",
+                                "expanded_url": "http://www.danaloesch.com",
+                                "display_url": "danaloesch.com"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "Chris Loesch",
+                "id": "491461409",
+                "public_metrics": {
+                    "followers_count": 134411,
+                    "following_count": 7758,
+                    "tweet_count": 257092,
+                    "listed_count": 1044
+                },
+                "username": "ChrisLoesch",
+                "url": "https://t.co/dYTibvxZ20",
+                "protected": false,
+                "created_at": "2012-02-13T17:20:43.000Z",
+                "pinned_tweet_id": "1420063330174226434",
+                "description": "A man devoted to Jesus, his wife, his children, his family, his friends, his liberty and his country that protects them. Don’t harm those things and we’re cool.",
+                "location": "The Republic of TEXAS, USA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1413359920502747138/A0A5QidE_normal.jpg"
+            },
+            {
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/8ffOS1ESdW",
+                                "expanded_url": "https://blackvotersmatterfund.org/donate/",
+                                "display_url": "blackvotersmatterfund.org/donate/"
+                            }
+                        ]
+                    }
+                },
+                "verified": false,
+                "name": "Jennifer Hanson💙🗳💙",
+                "id": "823576508966940672",
+                "public_metrics": {
+                    "followers_count": 1000,
+                    "following_count": 837,
+                    "tweet_count": 31426,
+                    "listed_count": 2
+                },
+                "username": "HansonJenL",
+                "url": "https://t.co/8ffOS1ESdW",
+                "protected": false,
+                "created_at": "2017-01-23T17:01:55.000Z",
+                "pinned_tweet_id": "1207085611628187649",
+                "description": "I vote blue, pro-democracy, anti-fascist.",
+                "location": "San Diego, CA",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1360600240508706819/IKvaW5XU_normal.jpg"
+            },
+            {
+                "verified": false,
+                "name": "Kerry Petter",
+                "id": "2230571358",
+                "public_metrics": {
+                    "followers_count": 609,
+                    "following_count": 1088,
+                    "tweet_count": 40863,
+                    "listed_count": 0
+                },
+                "username": "KerryPetter",
+                "url": "",
+                "protected": false,
+                "created_at": "2013-12-04T22:33:19.000Z",
+                "description": "",
+                "location": "Ontario, Canada",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1008421856460857345/JeMKWH2N_normal.jpg"
+            }
+        ],
+        "tweets": [
+            {
+                "id": "1060645426854977536",
+                "text": "Accusing people who want every vote counted of stealing an election is disgusting. \n\nMarco’s really gone full Trump here. https://t.co/sNmVwyel4o",
+                "author_id": "130496027",
+                "referenced_tweets": [
+                    {
+                        "type": "quoted",
+                        "id": "1060596882970415106"
+                    }
+                ],
+                "created_at": "2018-11-08T21:29:10.000Z"
+            },
+            {
+                "id": "1060574566282493952",
+                "text": "To those media outlets who covered extensively the \" the invading caravan\" before the election-- sometimes on page one -- but now have completely dropped reporting on this alleged national security threat, realize how badly Trump played you &amp; don't repeat.",
+                "author_id": "454099919",
+                "created_at": "2018-11-08T16:47:35.000Z"
+            },
+            {
+                "id": "1060678592017977344",
+                "text": "#Broward Elections Supervisor Brenda Snipes is no stranger to destroying ballots and violating Florida election laws.\n \nSnipes has shown herself to be trouble. Voters in Florida should be paying attention!",
+                "author_id": "2353605901",
+                "created_at": "2018-11-08T23:40:57.000Z"
+            },
+            {
+                "id": "1060682018705543175",
+                "text": "These photos are gorgeous. In the wake of a massive wave election that put a real check on Trump's power, they are another reminder: We are the majority, and we're on the march to renew our democracy. #ProtectMueller \n\nhttps://t.co/eyYLd4wybi",
+                "author_id": "7884802",
+                "referenced_tweets": [
+                    {
+                        "type": "quoted",
+                        "id": "1060680669297340416"
+                    }
+                ],
+                "created_at": "2018-11-08T23:54:34.000Z"
+            },
+            {
+                "id": "1060333386454175746",
+                "text": "Whittaker then was practicing law in his own law firm in Des Moines (Whitaker Hagenow &amp; Gustoff LLP).  On CNN, he was critical of former @FBI  Director James @Comey, the FBI 2016 election-Trump campaign-Russia investigation, Mueller’s special counsel appointment, etc.",
+                "in_reply_to_user_id": "68194357",
+                "author_id": "68194357",
+                "referenced_tweets": [
+                    {
+                        "type": "replied_to",
+                        "id": "1060333385376247810"
+                    }
+                ],
+                "created_at": "2018-11-08T00:49:14.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 141,
+                            "end": 145,
+                            "username": "FBI",
+                            "id": "17629860"
+                        },
+                        {
+                            "start": 162,
+                            "end": 168,
+                            "username": "Comey",
+                            "id": "2334193741"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1060226413754793984",
+                "text": "What I learned this election cycle:\n\n@BarackObama’s endorsement is a political kiss of death. \n\nPolitely decline next time, political-hopefuls!\n\nAmericans views him as a bad salesman who has his strings pulled by globalists. \n\nTrump obliterated his legacy.",
+                "author_id": "878247600096509952",
+                "created_at": "2018-11-07T17:44:09.000Z",
+                "entities": {
+                    "mentions": [
+                        {
+                            "start": 37,
+                            "end": 49,
+                            "username": "BarackObama",
+                            "id": "813286"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": "1060679482439335937",
+                "text": "Hey Scott, that headline is a lie. She was talking about how Trump handled the media during the election cycle. So unless you can produce some evidence of Trump physically assaulting a journalist then it’s obviously rhetorical.\nFull clip in context.  \nhttps://t.co/wUMtmrsgPs https://t.co/JUula6jOOd",
+                "author_id": "491461409",
+                "created_at": "2018-11-08T23:44:29.000Z"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1060683380893769728",
+        "oldest_id": "1060683331526893568",
+        "result_count": 10,
+        "next_token": "b26v89c19zqg8o3fn0sk9crfxn81qbyqjsgqlxrifhawt"
+    }
+}
