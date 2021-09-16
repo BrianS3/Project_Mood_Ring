@@ -1,3 +1,6 @@
+# This file is an example of how to extract tweets without using postman
+
+
 
 # For sending GET requests from the API
 import requests
